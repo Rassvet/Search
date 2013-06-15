@@ -1,0 +1,6 @@
+c:\users\dissid\documents\visual studio 2012\Projects\FindFolderConsoleApplication\FindFolderConsoleApplication\bin\Debug\FindFolderConsoleApplication.exe.config
+c:\users\dissid\documents\visual studio 2012\Projects\FindFolderConsoleApplication\FindFolderConsoleApplication\bin\Debug\FindFolderConsoleApplication.exe
+c:\users\dissid\documents\visual studio 2012\Projects\FindFolderConsoleApplication\FindFolderConsoleApplication\bin\Debug\FindFolderConsoleApplication.pdb
+c:\users\dissid\documents\visual studio 2012\Projects\FindFolderConsoleApplication\FindFolderConsoleApplication\obj\Debug\FindFolderConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\dissid\documents\visual studio 2012\Projects\FindFolderConsoleApplication\FindFolderConsoleApplication\obj\Debug\FindFolderConsoleApplication.exe
+c:\users\dissid\documents\visual studio 2012\Projects\FindFolderConsoleApplication\FindFolderConsoleApplication\obj\Debug\FindFolderConsoleApplication.pdb
